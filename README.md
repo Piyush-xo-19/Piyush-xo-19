@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h5 align="left">👋 Hi, I’m Piyush Gupta  <br>👀 Interested in ML, DL, Neural Networks, CV, AI, DSA & SQL  <br>🌱 Learning Deep Learning & Neural Nets (Pytorch)  <br>💡 Working on Image Segmentation & DL projects  <br>📫 [LinkedIn](https://www.linkedin.com/in/piyush-gupta-358800324) | 😄 Pronouns: He/Him  <br> Research Intern at NSUT  </h5>
+<h5 align="left">👋 Hi, I’m Piyush Gupta  <br>👀 Interested in ML, DL, Neural Networks, CV, AI, DSA & SQL  <br>🌱 Learning Deep Learning & Neural Nets (Pytorch)  <br>💡 Working on Image Segmentation & DL projects  <br>📫 [LinkedIn](https://www.linkedin.com/in/piyush-gupta-358800324) | 😄 Pronouns: He/Him  <br> 🧑🏼‍💻 Research Intern at NSUT  </h5>
 
 ###
 
