@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h5 align="left">👋 Hi, I’m **Piyush Gupta**  <br>👀 Interested in ML, DL, Neural Networks, CV, AI, DSA & SQL  <br>🌱 Learning Deep Learning & Neural Nets (TensorFlow + Keras)  <br>💡 Working on Image Segmentation & DL projects  <br>📫 [LinkedIn](https://www.linkedin.com/in/piyush-gupta-358800324) | 😄 Pronouns: He/Him  <br>🧠 Fun Fact: Trained a churn model that turned Indian states into geo-coordinates — ML + maps = magic! 🌍✨</h5>
+<h5 align="left">👋 Hi, I’m Piyush Gupta  <br>👀 Interested in ML, DL, Neural Networks, CV, AI, DSA & SQL  <br>🌱 Learning Deep Learning & Neural Nets (Pytorch)  <br>💡 Working on Image Segmentation & DL projects  <br>📫 [LinkedIn](https://www.linkedin.com/in/piyush-gupta-358800324) | 😄 Pronouns: He/Him  <br> Research Intern at NSUT  </h5>
 
 ###
 
